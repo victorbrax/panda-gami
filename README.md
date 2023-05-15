@@ -27,7 +27,7 @@
 
 
 <div align="center">
-<h1>🐼 Ohh no, the baby panda is still learning to make origamis... 📜</h1>
+<h2>🐼 Ohh no, the baby panda is still learning to make origamis... 📜</h2>
 </div>
 
 <div align="center">
